@@ -10,5 +10,8 @@ export default defineConfig({
       plugins: [tailwindcss()],
   },
 
+  site: 'https://iamaarvi.github.io/',
+  base: 'my-portfolio',
+
   integrations: [react()]
 });
