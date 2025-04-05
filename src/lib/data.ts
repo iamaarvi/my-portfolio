@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Rajkot, Gujrat, India",
   email: "ravikunpara67@gmail.com",
   github: "https://github.com/iamaarvi",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  linkedin: "https://www.linkedin.com/in/ravi-kunpara/",
 };
 
 export const workExperience = [
@@ -75,9 +75,6 @@ export const skills = {
     "Tailwind CSS",
     "HTML",
     "CSS",
-    "Black Mailing",
-    "Sutagiri",
-    "Chaplusi"
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
