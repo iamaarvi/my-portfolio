@@ -10,7 +10,7 @@ export const workExperience = [
   {
     company: "Chatbyte GmbH",
     location: "Remote",
-    position: "Software Engineer",
+    position: "Front-End Developer",
     period: "Mar 2024 - Present",
     achievements: [
       "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
@@ -23,20 +23,20 @@ export const workExperience = [
     ],
   },
   {
-    company: "DevCrew",
-    location: "Coimbatore, India",
-    position: "Software Engineer",
-    period: "Mar 2023 - Mar 2024",
+    company: "Freelancer",
+    location: "Ahemdabad,Gujart,India",
+    position: "Front-End Developer",
+    period: "Sept 2023 - Feb 2024",
     achievements: [
       "Developed responsive frontend components using React.js, enhancing user experience and app performance.",
       "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
     ],
   },
   {
-    company: "Phoenitags",
-    location: "Coimbatore, India",
-    position: "Software Engineering Intern",
-    period: "Jan 2023 - Mar 2023",
+    company: "Yudiz Solutions",
+    location: "Ahemdabad,Gujarat,India",
+    position: "Junior Web Developer Intern",
+    period: "Feb 2023 - July 2023",
     achievements: [
       "Built interactive UIs with React.js, focusing on reusable components and performance optimization.",
       "Implemented JavaScript-based features like user authentication and real-time updates.",
@@ -46,10 +46,10 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "B Tech Information Technology",
-    period: "Jun 2021 - Jun 2025",
+    institution: "Government Engineering College, Rajkot",
+    location: "Rajkot,Gujarat,India",
+    degree: "BE Computer Engineering",
+    period: "Jun 2019 - Jun 2023",
     achievements: [
       "President of the Department of Information Technology",
       "G20 student delegate",
