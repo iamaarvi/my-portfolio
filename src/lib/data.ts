@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Rajkot, Gujrat, India",
   email: "ravikunpara67@gmail.com",
   github: "https://github.com/iamaarvi",
-  linkedin: "https://www.linkedin.com/in/ravi-kunpara/",
+  linkedin: "www.linkedin.com/in/ravi-kunpara",
 };
 
 export const workExperience = [
