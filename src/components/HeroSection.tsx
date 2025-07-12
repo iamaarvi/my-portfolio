@@ -122,15 +122,14 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              🚀 I’m a passionate and performance-driven professional with a unique blend of technical expertise and marketing insight.
+              My work spans across full-stack web development, high-converting Meta (Facebook/Instagram) ad campaigns, and complete e-commerce platform management.I specialize in building fast, responsive websites and landing pages, running targeted ad campaigns to drive traffic and leads, and managing online stores across Amazon, Meesho, Flipkart, and Shopify with a focus on growth and ROI.
+              My core strength lies in combining data-driven strategies with clean, scalable code — helping businesses not just go digital, but grow digitally. I adapt quickly to new technologies and platforms, always striving for innovation, clarity, and impact in everything I create.
+              
+              🔧 Core Expertise
+              Web Development: HTML, CSS, React, WordPress, Tailwind, Responsive UI
+              Digital Marketing: Meta Ads, SEO, Conversion Optimization, Lead Generation
+              E-commerce: Listing optimization, Catalog uploads, Ad creatives, Store analytics
             </p>
           </div>
         </MotionWrapper>
