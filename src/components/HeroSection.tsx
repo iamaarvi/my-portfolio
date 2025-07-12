@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Web Developer | Digital Marketing Specialist | End-to-End E-commerce Solutions 👨‍💻
             </motion.p>
 
             <motion.div
