@@ -11,7 +11,7 @@ export default defineConfig({
   },
 
   site: 'https://iamaarvi.github.io/',
-  base: 'my-portfolio',
+  base: '/',
 
   integrations: [react()]
 });
