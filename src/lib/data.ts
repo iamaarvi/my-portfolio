@@ -102,25 +102,6 @@ export const skills = {
     "Website Audit",
   ],
 
-  listingAndCatalog: [
-    "Product Listing Optimization",
-    "Keyword-rich Titles",
-    "Bullet Points & Descriptions",
-    "A+ Content Creation",
-    "Catalog Hygiene",
-    "Image Guidelines Optimization",
-    "Pricing Strategy",
-  ],
-
-  analyticsAndReporting: [
-    "Google Analytics",
-    "Amazon Business Reports",
-    "Flipkart Business Insights",
-    "Meta Ads Reporting",
-    "Excel (Reports & Data Cleaning)",
-    "Market Research & Forecasting",
-  ],
-
   accountManagement: [
     "Order & Inventory Management",
     "Account Health Management",
@@ -128,16 +109,6 @@ export const skills = {
     "Return & Claims Handling",
     "Customer Support Coordination",
     "Multi-platform Sales Growth",
-  ],
-
-  contentAndCreative: [
-    "Ad Creatives",
-    "Copywriting",
-    "Product Descriptions",
-    "Creative Strategy",
-    "Canva Design",
-    "Brand Identity Assets",
-    "Reels & Social Media Content",
   ],
 
   toolsAndServices: [
